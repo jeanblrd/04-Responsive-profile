@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow|Righteous&display=swap" rel="stylesheet');
+
+body {
+  background: #336699;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  color: #003399;
+}
+
+h2 {
+  font-family: 'Righteous', cursive;
+  color: #0066cc;
+}
+
+p, a {
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+p {
+  color: #990000;
+  margin-bottom: 24px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 900;
+  color: #66ccff;
+  /*font-weight: bold;*/
+}
+
+a:hover {
+  color: #97c4bf;
+}
+
+#profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+.card-white {
+  text-align: center;
+  background: white;
+  margin: 24px auto;
+  padding: 32px;
+  box-shadow: 4px 4px 12px rgba(0,0,0,.1);
+  width: 620px;
+}
+
+.btn-blue {
+  background: #97c4bf;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
+
+.btn-blue:hover {
+  background: #216583;
+  color: white;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.social-icons {
+  font-size: 32px;
+  margin: 8px 16px;
+}
+.social-icons:hover {
+  color: rgb(20,20,20);
+}
+
+
+
+
+
+
